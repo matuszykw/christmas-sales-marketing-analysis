@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/sql/data_cleaning.sql" value="edeb5ec7-62a5-4ef1-a58a-a6fe45f545de" />
+    <file url="file://$PROJECT_DIR$/sql/eda.sql" value="edeb5ec7-62a5-4ef1-a58a-a6fe45f545de" />
+    <file url="file://$PROJECT_DIR$/sql/views.sql" value="edeb5ec7-62a5-4ef1-a58a-a6fe45f545de" />
+  </component>
+</project>
