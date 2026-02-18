@@ -40,7 +40,8 @@ This project analyzes Q4 holiday retail sales (Black Friday, Cyber Monday, Chris
 
 - **The BOGO Margin Trap:** While the BOGO (Buy One Get One) promotion generates high sales volume, it yields a severely low overall net profit margin of just **2.68%** (compared to a healthy 27.7% for Price discounts and 15.5% for Percent discounts).
 - **Mid-Tier Margin Dilution:** Although BOGO is slightly profitable overall, the mid-range product segment ($60–$180) acts as a financial dead weight. Despite moving massive inventory volume, this specific tier mathematically zeros out, operating at a net loss of **~$7k**. It consumes massive logistical resources without contributing to the bottom line, severely diluting the entire campaign's performance.
-- **Systemic Fulfillment Crisis:** The delivery network is structurally underperforming. The baseline, everyday **Lateness Rate sits at an unacceptable 68.65%**, a bottleneck that fractures even further under the stress of peak holiday volume.
+- **56% Wasted Volume & Margin Dilution:** The mid-range product segment ($60–$180) acts as a financial dead weight. Analysis reveals that **56% of the total BOGO volume shipped generated zero net profit**. This "empty calorie" volume not only diluted margins but uselessly clogged the supply chain.
+- **Systemic Fulfillment Crisis:** The influx of this unprofitable volume crushed the delivery network, resulting in a **68.65% Lateness Rate**. The logistics provider (3PL) was effectively overwhelmed by processing packages that contributed nothing to the bottom line.
 
 
 <br>
