@@ -38,10 +38,9 @@ This project analyzes Q4 holiday retail sales (Black Friday, Cyber Monday, Chris
 
 <h3>Key Findings</h3>
 
-- **The BOGO Margin Trap:** While the BOGO (Buy One Get One) promotion generates high sales volume, it yields a severely low overall net profit margin of just **2.68%** (compared to a healthy 27.7% for Price discounts and 15.5% for Percent discounts).
-- **Mid-Tier Margin Dilution:** Although BOGO is slightly profitable overall, the mid-range product segment ($60–$180) acts as a financial dead weight. Despite moving massive inventory volume, this specific tier mathematically zeros out, operating at a net loss of **~$7k**. It consumes massive logistical resources without contributing to the bottom line, severely diluting the entire campaign's performance.
-- **56% Wasted Volume & Margin Dilution:** The mid-range product segment ($60–$180) acts as a financial dead weight. Analysis reveals that **56% of the total BOGO volume shipped generated zero net profit**. This "empty calorie" volume not only diluted margins but uselessly clogged the supply chain.
-- **Systemic Fulfillment Crisis:** The influx of this unprofitable volume crushed the delivery network, resulting in a **68.65% Lateness Rate**. The logistics provider (3PL) was effectively overwhelmed by processing packages that contributed nothing to the bottom line.
+- **The BOGO Profit Trap:** The BOGO (Buy One Get One) promotion creates a massive amount of sales, but the final profit is extremely low. The overall net profit margin is only **2.68%** (compared to a healthy 27.7% for standard price discounts).
+- **56% "Wasted Volume" in Mid-Range Products:** We found a major hidden loss in products priced between $60 and $180. Even though we sold a huge amount of them, they operated at a net loss of ~$7k. More importantly, **56% of all items shipped during the BOGO campaign generated zero profit**. We call this "Wasted Volume" because the company did all the hard work of packing and shipping these items without making any money on them.
+- **Overloaded Supply Chain:** Because the warehouse was busy packing and shipping that 56% "Wasted Volume" for free, the delivery network couldn't handle the pressure. This directly caused a massive **68.65% Lateness Rate**, delaying orders for paying customers.
 
 
 <br>
